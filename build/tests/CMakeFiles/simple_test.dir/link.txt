@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/simple_test.dir/simple_test.c.o -o simple_test  /usr/local/lib/libcmocka.dylib 

@@ -1,0 +1,23 @@
+Start testing: Jul 15 21:58 CEST
+----------------------------------------------------------
+1/1 Testing: simple_test
+1/1 Test: simple_test
+Command: "/Users/geza.szilard.szoradi/Development/tocki/build/tests/simple_test"
+Directory: /Users/geza.szilard.szoradi/Development/tocki/build/tests
+"simple_test" start time: Jul 15 21:58 CEST
+Output:
+----------------------------------------------------------
+[==========] tests: Running 1 test(s).
+[ RUN      ] null_test_success
+[       OK ] null_test_success
+[==========] tests: 1 test(s) run.
+[  PASSED  ] 1 test(s).
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"simple_test" end time: Jul 15 21:58 CEST
+"simple_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 15 21:58 CEST

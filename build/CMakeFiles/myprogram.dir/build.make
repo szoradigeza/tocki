@@ -73,15 +73,15 @@ CMakeFiles/myprogram.dir/main.c.o: CMakeFiles/myprogram.dir/flags.make
 CMakeFiles/myprogram.dir/main.c.o: /Users/geza.szilard.szoradi/Development/tocki/main.c
 CMakeFiles/myprogram.dir/main.c.o: CMakeFiles/myprogram.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/geza.szilard.szoradi/Development/tocki/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/myprogram.dir/main.c.o"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/myprogram.dir/main.c.o -MF CMakeFiles/myprogram.dir/main.c.o.d -o CMakeFiles/myprogram.dir/main.c.o -c /Users/geza.szilard.szoradi/Development/tocki/main.c
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/myprogram.dir/main.c.o -MF CMakeFiles/myprogram.dir/main.c.o.d -o CMakeFiles/myprogram.dir/main.c.o -c /Users/geza.szilard.szoradi/Development/tocki/main.c
 
 CMakeFiles/myprogram.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/myprogram.dir/main.c.i"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/geza.szilard.szoradi/Development/tocki/main.c > CMakeFiles/myprogram.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/geza.szilard.szoradi/Development/tocki/main.c > CMakeFiles/myprogram.dir/main.c.i
 
 CMakeFiles/myprogram.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/myprogram.dir/main.c.s"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/geza.szilard.szoradi/Development/tocki/main.c -o CMakeFiles/myprogram.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/geza.szilard.szoradi/Development/tocki/main.c -o CMakeFiles/myprogram.dir/main.c.s
 
 # Object files for target myprogram
 myprogram_OBJECTS = \
