@@ -1,0 +1,3 @@
+/Users/geza.szilard.szoradi/Development/tocki/build/CMakeFiles/myprogram.dir
+/Users/geza.szilard.szoradi/Development/tocki/build/CMakeFiles/edit_cache.dir
+/Users/geza.szilard.szoradi/Development/tocki/build/CMakeFiles/rebuild_cache.dir
